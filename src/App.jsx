@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import quotes from './assets/quotes.json';
+import quotes from './assets/quotes.json';    // array with quotes
 
 import Quote from './Quote';
 import NewQuote from './NewQuote';
@@ -20,9 +20,9 @@ function App() {
     return `rgb(${redColor}, ${greenColor}, ${blueColor})`;
   }
 
-  const transition = 'all 1.5s';
+  const transition = 'all 1.5s';    // transition property of css - makes the colour change slower
 
-  const [quote, setQuote] = useState(getRandomQuote());
+  const [quote, setQuote] = useState(getRandomQuote());     
   const [color, setColor] = useState(getRandomColor());
 
   const handleClick = () => {
