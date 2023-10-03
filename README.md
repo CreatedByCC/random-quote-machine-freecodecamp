@@ -24,4 +24,4 @@
 - [VS Code](https://code.visualstudio.com/) - prerequisite
 - [Nodejs](https://nodejs.org/en/download) - prerequisite
 - [Vite](https://vitejs.dev/guide/)
-- [How to deploy Vite-React App](https://blog.devgenius.io/how-to-deploy-your-vite-react-app-to-github-pages-with-and-without-react-router-b060d912b10e)
+- [How to deploy Vite-React App](https://blog.devgenius.io/how-to-deploy-your-vite-react-app-to-github-pages-with-and-without-react-router-b060d912b10e) or YouTube video [link](https://youtu.be/XhoWXhyuW_I?si=KJB64Z1ckTbMi2is)
