@@ -20,6 +20,9 @@
    - Create a jsx file for each component in the src folder
    - Move that section of code from App.jsx to the component jsx file
    - I keep my data (assigned to state) in the assets folder inside the src folder in a jsx file
+### Deploy the project on GitHub Pages:
+1. I usually follow the instructions in the blog listed in the Resources below
+   - There is step where you need to add a new .github folder INSIDE your main project folder (I didnt understand the instruction the first time so felt it would be a good idea to just make you aware of where this folder goes)
 ## Resources:
 - [VS Code](https://code.visualstudio.com/) - prerequisite
 - [Nodejs](https://nodejs.org/en/download) - prerequisite
