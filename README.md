@@ -10,15 +10,16 @@
 1. Open the folder where you project folder will be saved
 2. Use terminal to install Vite `npm create vite@latest` - I selected React and JS
 ### Minor tweaks to Vite files:
-1. Clear out App.css - here you can add your own styles
-2. Clear out most of Index.css - I keep some of the root styles (font-family, line-height and font-weight)
-3. Delete the content in the return method of App.jsx
+1. Remove the flavicon icon in head element of the index.html file - personal preference
+2. Clear out App.css - here you can add your own styles
+3. Clear out most of Index.css - I keep some of the root styles (font-family, line-height and font-weight)
+4. Delete the content in the return method of App.jsx
 ### Start working on your project:
 1. I create the entire App in App.jsx first
 2. Then I split each section into its own component and fix up the code by adding props
    - Create a jsx file for each component in the src folder
    - Move that section of code from App.jsx to the component jsx file
-   - I keep my data in the assets folder inside the src folder in a jsx file
+   - I keep my data (assigned to state) in the assets folder inside the src folder in a jsx file
 ## Resources:
 - [VS Code](https://code.visualstudio.com/) - prerequisite
 - [Nodejs](https://nodejs.org/en/download) - prerequisite
